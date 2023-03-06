@@ -1,9 +1,3 @@
-# Example sub page
-
-In Notion, you can nest pages inside pages inside pages... infinitely. No more messy folders!
-
-## Understanding GDPR: What you need to know
-
 ---
 title: "Getting GDPR right"
 subtitle: "Test"
@@ -11,6 +5,13 @@ date: "2023-03-06"
 author: "Julia Obarzanek"
 image: "http://placekitten.com/1000/1400"
 ---
+# Example sub page
+
+In Notion, you can nest pages inside pages inside pages... infinitely. No more messy folders!
+
+## Understanding GDPR: What you need to know
+
+
 
 The General Data Protection Regulation (GDPR) is a set of regulations that governs how companies collect and use personal data from individuals in the European Union. The regulation was implemented on May 25, 2018, and applies to any company that collects or processes personal data from EU citizens, regardless of where the company is located.
 
