@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with AWS"
 subtitle: "Create an AWS account and set up CLI/SDK access."
-date: "2020-12-27"
+date: "2023-03-06"
 author: "Julia Obarzanek"
 image: "http://placekitten.com/1000/1500"
 ---
